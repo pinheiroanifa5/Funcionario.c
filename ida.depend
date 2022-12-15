@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671103624 source:/home/bellatrix/Desktop/ida/main.c
+	<stdio.h>
+	<stdlib.h>
+
